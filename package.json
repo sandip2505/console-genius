@@ -1,6 +1,6 @@
 {
   "name": "console-genius",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A lightweight and beautiful debug logging utility for Node.js developers",
   "main": "index.js",
   "type": "module",

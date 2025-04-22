@@ -1,4 +1,4 @@
-# Debuggify
+# console-genius
 
 A lightweight and beautiful debug logging utility for Node.js developers that improves console logs with colored output, contextual information, and function tracing.
 
@@ -14,13 +14,13 @@ A lightweight and beautiful debug logging utility for Node.js developers that im
 ## Installation
 
 ```bash
-npm install debuggify
+npm install console-genius
 ```
 
 ## Basic Usage
 
 ```javascript
-const dbg = require('debuggify');
+const dbg = require('console-genius');
 
 // Simple logs
 dbg.info('Starting application');

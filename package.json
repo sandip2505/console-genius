@@ -1,0 +1,33 @@
+{
+  "name": "console-genius",
+  "version": "0.1.0",
+  "description": "A lightweight and beautiful debug logging utility for Node.js developers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "debug",
+    "log",
+    "console",
+    "colored",
+    "developer-tools",
+    "tracing",
+    "logger"
+  ],
+  "author": "Sandip Ganava",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "pretty-ms": "^7.0.1",
+    "stack-trace": "^0.0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/debuggify.git"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}

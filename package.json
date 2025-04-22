@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sandipganava/console-genius.git"
+    "url": "https://github.com/sandip2505/console-genius.git"
   },
   "engines": {
     "node": ">=10.0.0"
